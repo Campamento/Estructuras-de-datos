@@ -11,6 +11,6 @@ package com.mycompany.estructurasdedatos;
 public class Estructurasdedatos {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Bienvenidos estudiantes de estructuras de datos");
     }
 }
